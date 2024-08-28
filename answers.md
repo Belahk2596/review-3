@@ -1,4 +1,4 @@
-## <div class ="pyramid" id="topHeader"></div>
+## <div class="pyramid" id="topHeader"></div>
 
 ## div > .pyramid
 
